@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+	<title>Cidades e Estado - Exemplo</title>
+	<style>
+		* {
+			font-family: 'Roboto', sans-serif;
+		}
+		body {
+			padding: 1em;
+		}
+		.grupo_estado_cidade {
+			border-bottom: 1px solid #e8e8e8;
+			padding: 2rem 0;
+		}
+		#add {
+			margin-top: 20px;
+		}
+		button, select {
+			font-size: 1rem;
+		}
+	</style>
+</head>
+<body>
+
+	<h1>Cidades e Estados - Exemplo</h1>
+
+	<div class="grupo_estado_cidade">
+		<select name="frm_estado[]" data-estado="SP" data-grupo-id="1"></select>
+		<select name="frm_cidade[]" data-cidade="São Paulo" data-grupo-id="1"></select>
+	</div>
+
+	<div class="grupo_estado_cidade">
+		<select name="frm_estado[]" data-estado="RJ" data-grupo-id="2"></select>
+		<select name="frm_cidade[]" data-cidade="Rio de Janeiro" data-grupo-id="2"></select>
+	</div>
+
+	<div class="grupo_estado_cidade">
+		<select name="frm_estado[]" data-estado="DF" data-grupo-id="3"></select>
+		<select name="frm_cidade[]" data-cidade="" data-grupo-id="3"></select>
+	</div>
+
+	<div class="grupo_estado_cidade">
+		<select name="frm_estado[]" data-estado="" data-grupo-id="4"></select>
+		<select name="frm_cidade[]" data-cidade="" data-grupo-id="4"></select>
+	</div>
+
+	<button id="add">Adicionar</button>
+
+	<script src="/CidadesEstados.js"></script>
+
+	<script>
+		// Exemplo: Adiciona novo grupo com o estado e cidade
+		document.getElementById("add").addEventListener("click", (event) => {
+			let grupo = document.querySelector(".grupo_estado_cidade");
+			let gruposTotal = document.querySelectorAll(".grupo_estado_cidade").length + 1;
+			let grupoNovo = grupo.cloneNode(true);
+			let estadoObj = grupoNovo.querySelector("[data-estado]");
+			let cidadeObj = grupoNovo.querySelector("[data-cidade]");
+
+			estadoObj.setAttribute("data-estado", "");
+			estadoObj.setAttribute("data-grupo-id", gruposTotal);
+
+			cidadeObj.setAttribute("data-cidade", "");
+			cidadeObj.setAttribute("data-grupo-id", gruposTotal);
+
+			while (cidadeObj.firstChild) {
+				cidadeObj.removeChild(cidadeObj.firstChild);
+			}
+			cidadeObj.options[cidadeObj.options.length] = new Option('Selecione uma cidade', '');
+
+			event.target.parentNode.insertBefore(grupoNovo, event.target);
+		});
+	</script>
+
+</body>
+</html>
