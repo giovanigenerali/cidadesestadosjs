@@ -5,7 +5,7 @@
 
 'use strict';
 
-class CidadesEstados {
+export class CidadesEstados {
 	constructor() {
 		this.json = {
 			estados: null,
@@ -20,13 +20,13 @@ class CidadesEstados {
 	}
 
 	async getEstados() {
-		const response = await fetch('/json/estados.json');
+		const response = await fetch('/dist/json/estados.json');
 		return await response.json();
 	}
 
 	async getCidades(estado) {
 		if (!this.json.cidades.hasOwnProperty(estado)) {
-			const response = await fetch(`/json/cidades/${estado}.json`);
+			const response = await fetch(`/dist/json/cidades/${estado}.json`);
 			this.json.cidades[estado] = await response.json();
 		}
 		return this.json.cidades[estado];
@@ -118,8 +118,3 @@ class CidadesEstados {
 	}
 
 }
-
-document.addEventListener('DOMContentLoaded', () => {
-	const ce = new CidadesEstados();
-	ce.init();
-});

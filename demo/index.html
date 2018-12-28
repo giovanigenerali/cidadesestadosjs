@@ -51,9 +51,14 @@
 
 	<button id="add">Adicionar</button>
 
-	<script src="/CidadesEstados.js"></script>
+	<script src="/dist/app.js"></script>
 
 	<script>
+		document.addEventListener('DOMContentLoaded', () => {
+			const ce = new CidadesEstados();
+			ce.init();
+		});
+
 		// Exemplo: Adiciona novo grupo com o estado e cidade
 		document.getElementById("add").addEventListener("click", (event) => {
 			let grupo = document.querySelector(".grupo_estado_cidade");
