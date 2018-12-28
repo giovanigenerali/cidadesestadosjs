@@ -35,7 +35,7 @@ class CidadesEstados {
 	renderEstados() {
 		let estadosObj = document.querySelectorAll('select[data-estado]');
 
-		if (estadosObj.length == 0) {
+		if (estadosObj.length === 0) {
 			return false;
 		}
 
@@ -53,7 +53,7 @@ class CidadesEstados {
 					estadoObj.options[estadoObj.options.length] = new Option('Selecione um estado', '');
 
 					this.json.estados.forEach((estado) => {
-						estadoObj.options[estadoObj.options.length] = (estado.id == estadoAttr) ? new Option(estado.estado, estado.id, null, true) : new Option(estado.estado, estado.id);
+						estadoObj.options[estadoObj.options.length] = (estado.id === estadoAttr) ? new Option(estado.estado, estado.id, null, true) : new Option(estado.estado, estado.id);
 					});
 
 					this.renderCidades(estadoAttr, grupoIdAttr);
@@ -73,16 +73,16 @@ class CidadesEstados {
 		}
 		cidadeObj.options[cidadeObj.options.length] = new Option('Selecione uma cidade', '');
 
-		if (estado != '') {
+		if (estado !== '') {
 			this.getCidades(estado)
 				.then((response) => {
 					response.cidades.forEach((cidade) => {
 
-						if (cidadeAttr == '' && cidade.capital) {
+						if (cidadeAttr === '' && cidade.capital) {
 							cidadeObj.options[cidadeObj.options.length] = new Option(cidade.cidade, cidade.cidade, null, true);
 							cidadeObj.setAttribute('data-cidade', cidade.cidade);
 						} else {
-							cidadeObj.options[cidadeObj.options.length] = (cidade.cidade == cidadeAttr) ? new Option(cidade.cidade, cidade.cidade, null, true) : new Option(cidade.cidade, cidade.cidade);
+							cidadeObj.options[cidadeObj.options.length] = (cidade.cidade === cidadeAttr) ? new Option(cidade.cidade, cidade.cidade, null, true) : new Option(cidade.cidade, cidade.cidade);
 						}
 
 					});
