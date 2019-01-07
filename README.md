@@ -9,7 +9,7 @@ Lista de cidades e estados do Brasil que carrega um campo `<select>` com os esta
 A instalação é simples e básica, só incluir o script no html e configurar os campos `select` conforme abaixo:
 
 ```html
-<script src="cidades-estados.js"></script>
+<script src="/dist/CidadesEstados.min.js"></script>
 ```
 
 ---

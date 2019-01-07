@@ -9,7 +9,7 @@ module.exports = {
 		libraryTarget: 'umd',
 		libraryExport: 'CidadesEstados',
 		path: path.resolve(__dirname, 'dist'),
-		filename: 'app.js'
+		filename: 'CidadesEstados.min.js'
 	},
 	module: {
 		rules: [{
@@ -24,6 +24,7 @@ module.exports = {
 	plugins: [
     new CopyWebpackPlugin([
 			{ from: 'src/json/', to: 'json/' },
+			{ from: 'src/app.js', to: 'CidadesEstados.js' },
 		])
   ]
 };

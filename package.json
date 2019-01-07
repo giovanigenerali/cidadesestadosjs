@@ -1,6 +1,6 @@
 {
   "name": "cidade-estados-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lista de cidades e estados do Brasil que carrega um campo `<select>` com os estados e outro `<select>` com as cidades do estados selecionado.",
   "main": "dist/app.js",
   "directories": {
@@ -20,7 +20,8 @@
     "webpack-cli": "^3.1.2"
   },
   "scripts": {
-    "build": "webpack --mode production"
+    "cleanup": "rm -Rf ./dist",
+    "build": "npm run cleanup && webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
   },
   "homepage": "https://github.com/wgenial/cidadesestadosjs#readme",
   "dependencies": {
-    "@babel/runtime": "^7.2.0"
+    "@babel/runtime": "^7.2.0",
+    "npm": "^6.5.0"
   }
 }

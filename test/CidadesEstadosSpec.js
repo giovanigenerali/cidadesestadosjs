@@ -19,7 +19,7 @@ describe("Estados", function() {
   });
 
 	it('fetch json estados', function() {
-		expect(window.fetch).toHaveBeenCalledWith('/json/estados.json');
+		expect(window.fetch).toHaveBeenCalledWith(ce.json_path.estados + '/estados.json');
 	});
 
 	it('returns a promise', function() {
@@ -73,7 +73,7 @@ describe("Cidades", function() {
   });
 
 	it('fetch json cidades', function() {
-		expect(window.fetch).toHaveBeenCalledWith('/json/cidades/DF.json');
+		expect(window.fetch).toHaveBeenCalledWith(ce.json_path.cidades + '/DF.json');
 	});
 
 	it('returns a promise', function() {
