@@ -1,6 +1,7 @@
 # Cidades e Estados BR - JS
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b9b13b17c3504457917f865d56013895)](https://app.codacy.com/app/wgenial/cidadesestadosjs?utm_source=github.com&utm_medium=referral&utm_content=wgenial/cidadesestadosjs&utm_campaign=Badge_Grade_Settings)
+[![Known Vulnerabilities](https://snyk.io/test/github/wgenial/cidadesestadosjs/badge.svg)](https://snyk.io/test/github/wgenial/cidadesestadosjs)
 
 Lista de cidades e estados do Brasil que carrega um campo `<select>` com os estados e outro `<select>` com as cidades do estados selecionado.
 
