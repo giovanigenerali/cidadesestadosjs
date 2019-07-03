@@ -36,6 +36,6 @@
   "homepage": "https://github.com/wgenial/cidadesestadosjs#readme",
   "dependencies": {
     "@babel/runtime": "^7.2.0",
-    "npm": "^6.5.0"
+    "npm": "^6.6.0"
   }
 }
