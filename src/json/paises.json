@@ -2,17 +2,17 @@
   "paises": [
     {
       "codigo": "93",
-      "pais": "AfeganistÃ£o",
+      "pais": "Afeganistão",
       "sigla": "AF"
     },
     {
       "codigo": "27",
-      "pais": "Ãfrica do Sul",
+      "pais": "África do Sul",
       "sigla": "ZA"
     },
     {
       "codigo": "355",
-      "pais": "AlbÃ¢nia",
+      "pais": "Albânia",
       "sigla": "AL"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "codigo": "672",
-      "pais": "AntÃ¡rtida",
+      "pais": "Antártida",
       "sigla": "AQ"
     },
     {
       "codigo": "1268",
-      "pais": "AntÃ­gua e Barbuda",
+      "pais": "Antígua e Barbuda",
       "sigla": "AG"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "codigo": "966",
-      "pais": "ArÃ¡bia Saudita",
+      "pais": "Arábia Saudita",
       "sigla": "SA"
     },
     {
       "codigo": "213",
-      "pais": "ArgÃ©lia",
+      "pais": "Argélia",
       "sigla": "DZ"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "codigo": "374",
-      "pais": "ArmÃªnia",
+      "pais": "Armênia",
       "sigla": "AM"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "codigo": "61",
-      "pais": "AustrÃ¡lia",
+      "pais": "Austrália",
       "sigla": "AU"
     },
     {
       "codigo": "43",
-      "pais": "Ãustria",
+      "pais": "Áustria",
       "sigla": "AT"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "codigo": "994",
-      "pais": "AzerbaijÃ£o",
+      "pais": "Azerbaijão",
       "sigla": "AZ"
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "codigo": "32",
-      "pais": "BÃ©lgica",
+      "pais": "Bélgica",
       "sigla": "BE"
     },
     {
@@ -142,12 +142,12 @@
     },
     {
       "codigo": "591",
-      "pais": "BolÃ­via",
+      "pais": "Bolívia",
       "sigla": "BO"
     },
     {
       "codigo": "387",
-      "pais": "BÃ³snia e Herzegovina",
+      "pais": "Bósnia e Herzegovina",
       "sigla": "BA"
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "codigo": "359",
-      "pais": "BulgÃ¡ria",
+      "pais": "Bulgária",
       "sigla": "BG"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "codigo": "975",
-      "pais": "ButÃ£o",
+      "pais": "Butão",
       "sigla": "BT"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "codigo": "237",
-      "pais": "CamarÃµes",
+      "pais": "Camarões",
       "sigla": "CM"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "codigo": "1",
-      "pais": "CanadÃ¡",
+      "pais": "Canadá",
       "sigla": "CA"
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "codigo": "7",
-      "pais": "CazaquistÃ£o",
+      "pais": "Cazaquistão",
       "sigla": "KZ"
     },
     {
@@ -247,7 +247,7 @@
     },
     {
       "codigo": "57",
-      "pais": "ColÃ´mbia",
+      "pais": "Colômbia",
       "sigla": "CO"
     },
     {
@@ -262,7 +262,7 @@
     },
     {
       "codigo": "243",
-      "pais": "Congo, RepÃºblica DemocrÃ¡tica do",
+      "pais": "Congo, República Democrática do",
       "sigla": "CD"
     },
     {
@@ -282,12 +282,12 @@
     },
     {
       "codigo": "225",
-      "pais": "CÃ´te d'Ivoire (Costa do Marfim)",
+      "pais": "Côte d'Ivoire (Costa do Marfim)",
       "sigla": "CI"
     },
     {
       "codigo": "385",
-      "pais": "CroÃ¡cia",
+      "pais": "Croácia",
       "sigla": "HR"
     },
     {
@@ -322,7 +322,7 @@
     },
     {
       "codigo": "971",
-      "pais": "Emirados Ãrabes Unidos",
+      "pais": "Emirados Árabes Unidos",
       "sigla": "AE"
     },
     {
@@ -337,12 +337,12 @@
     },
     {
       "codigo": "421",
-      "pais": "EslovÃ¡quia",
+      "pais": "Eslováquia",
       "sigla": "SK"
     },
     {
       "codigo": "386",
-      "pais": "EslovÃªnia",
+      "pais": "Eslovênia",
       "sigla": "SI"
     },
     {
@@ -357,12 +357,12 @@
     },
     {
       "codigo": "372",
-      "pais": "EstÃ´nia",
+      "pais": "Estônia",
       "sigla": "EE"
     },
     {
       "codigo": "251",
-      "pais": "EtiÃ³pia",
+      "pais": "Etiópia",
       "sigla": "ET"
     },
     {
@@ -372,22 +372,22 @@
     },
     {
       "codigo": "358",
-      "pais": "FinlÃ¢ndia",
+      "pais": "Finlândia",
       "sigla": "FI"
     },
     {
       "codigo": "33",
-      "pais": "FranÃ§a",
+      "pais": "França",
       "sigla": "FR"
     },
     {
       "codigo": "241",
-      "pais": "GabÃ£o",
+      "pais": "Gabão",
       "sigla": "GA"
     },
     {
       "codigo": "220",
-      "pais": "GÃ¢mbia",
+      "pais": "Gâmbia",
       "sigla": "GM"
     },
     {
@@ -397,12 +397,12 @@
     },
     {
       "codigo": "995",
-      "pais": "GeÃ³rgia",
+      "pais": "Geórgia",
       "sigla": "GE"
     },
     {
       "codigo": "",
-      "pais": "GeÃ³rgia do Sul e Ilhas Sandwich do Sul",
+      "pais": "Geórgia do Sul e Ilhas Sandwich do Sul",
       "sigla": "GS"
     },
     {
@@ -417,12 +417,12 @@
     },
     {
       "codigo": "30",
-      "pais": "GrÃ©cia",
+      "pais": "Grécia",
       "sigla": "GR"
     },
     {
       "codigo": "299",
-      "pais": "GroenlÃ¢ndia",
+      "pais": "Groenlândia",
       "sigla": "GL"
     },
     {
@@ -457,17 +457,17 @@
     },
     {
       "codigo": "224",
-      "pais": "GuinÃ©",
+      "pais": "Guiné",
       "sigla": "GN"
     },
     {
       "codigo": "240",
-      "pais": "GuinÃ© Equatorial",
+      "pais": "Guiné Equatorial",
       "sigla": "GQ"
     },
     {
       "codigo": "245",
-      "pais": "GuinÃ©-Bissau",
+      "pais": "Guiné-Bissau",
       "sigla": "GW"
     },
     {
@@ -492,7 +492,7 @@
     },
     {
       "codigo": "967",
-      "pais": "IÃªmen",
+      "pais": "Iêmen",
       "sigla": "YE"
     },
     {
@@ -532,7 +532,7 @@
     },
     {
       "codigo": "298",
-      "pais": "Ilhas FaroÃ©s",
+      "pais": "Ilhas Faroés",
       "sigla": "FO"
     },
     {
@@ -562,7 +562,7 @@
     },
     {
       "codigo": "677",
-      "pais": "Ilhas SalomÃ£o",
+      "pais": "Ilhas Salomão",
       "sigla": "SB"
     },
     {
@@ -577,22 +577,22 @@
     },
     {
       "codigo": "1284",
-      "pais": "Ilhas Virgens BritÃ¢nicas",
+      "pais": "Ilhas Virgens Britânicas",
       "sigla": "VG"
     },
     {
       "codigo": "91",
-      "pais": "Ãndia",
+      "pais": "Índia",
       "sigla": "IN"
     },
     {
       "codigo": "62",
-      "pais": "IndonÃ©sia",
+      "pais": "Indonésia",
       "sigla": "ID"
     },
     {
       "codigo": "98",
-      "pais": "IrÃ£",
+      "pais": "Irã",
       "sigla": "IR"
     },
     {
@@ -607,7 +607,7 @@
     },
     {
       "codigo": "354",
-      "pais": "IslÃ¢ndia",
+      "pais": "Islândia",
       "sigla": "IS"
     },
     {
@@ -617,7 +617,7 @@
     },
     {
       "codigo": "39",
-      "pais": "ItÃ¡lia",
+      "pais": "Itália",
       "sigla": "IT"
     },
     {
@@ -627,7 +627,7 @@
     },
     {
       "codigo": "81",
-      "pais": "JapÃ£o",
+      "pais": "Japão",
       "sigla": "JP"
     },
     {
@@ -637,7 +637,7 @@
     },
     {
       "codigo": "962",
-      "pais": "JordÃ¢nia",
+      "pais": "Jordânia",
       "sigla": "JO"
     },
     {
@@ -662,22 +662,22 @@
     },
     {
       "codigo": "",
-      "pais": "LetÃ´nia",
+      "pais": "Letônia",
       "sigla": "LV"
     },
     {
       "codigo": "961",
-      "pais": "LÃ­bano",
+      "pais": "Líbano",
       "sigla": "LB"
     },
     {
       "codigo": "231",
-      "pais": "LibÃ©ria",
+      "pais": "Libéria",
       "sigla": "LR"
     },
     {
       "codigo": "218",
-      "pais": "LÃ­bia",
+      "pais": "Líbia",
       "sigla": "LY"
     },
     {
@@ -687,7 +687,7 @@
     },
     {
       "codigo": "370",
-      "pais": "LituÃ¢nia",
+      "pais": "Lituânia",
       "sigla": "LT"
     },
     {
@@ -697,7 +697,7 @@
     },
     {
       "codigo": "389",
-      "pais": "MacedÃ´nia, Antiga RepÃºblica Iugoslava da",
+      "pais": "Macedônia, Antiga República Iugoslava da",
       "sigla": "MK"
     },
     {
@@ -707,7 +707,7 @@
     },
     {
       "codigo": "60",
-      "pais": "MalÃ¡sia",
+      "pais": "Malásia",
       "sigla": "MY"
     },
     {
@@ -742,12 +742,12 @@
     },
     {
       "codigo": "230",
-      "pais": "MaurÃ­cio",
+      "pais": "Maurício",
       "sigla": "MU"
     },
     {
       "codigo": "222",
-      "pais": "MauritÃ¢nia",
+      "pais": "Mauritânia",
       "sigla": "MR"
     },
     {
@@ -757,17 +757,17 @@
     },
     {
       "codigo": "52",
-      "pais": "MÃ©xico",
+      "pais": "México",
       "sigla": "MX"
     },
     {
       "codigo": "691",
-      "pais": "MicronÃ©sia",
+      "pais": "Micronésia",
       "sigla": "FM"
     },
     {
       "codigo": "258",
-      "pais": "MoÃ§ambique",
+      "pais": "Moçambique",
       "sigla": "MZ"
     },
     {
@@ -777,12 +777,12 @@
     },
     {
       "codigo": "377",
-      "pais": "MÃ´naco",
+      "pais": "Mônaco",
       "sigla": "MC"
     },
     {
       "codigo": "976",
-      "pais": "MongÃ³lia",
+      "pais": "Mongólia",
       "sigla": "MN"
     },
     {
@@ -802,7 +802,7 @@
     },
     {
       "codigo": "264",
-      "pais": "NamÃ­bia",
+      "pais": "Namíbia",
       "sigla": "NA"
     },
     {
@@ -817,17 +817,17 @@
     },
     {
       "codigo": "505",
-      "pais": "NicarÃ¡gua",
+      "pais": "Nicarágua",
       "sigla": "NI"
     },
     {
       "codigo": "227",
-      "pais": "NÃ­ger",
+      "pais": "Níger",
       "sigla": "NE"
     },
     {
       "codigo": "234",
-      "pais": "NigÃ©ria",
+      "pais": "Nigéria",
       "sigla": "NG"
     },
     {
@@ -842,22 +842,22 @@
     },
     {
       "codigo": "687",
-      "pais": "Nova CaledÃ´nia",
+      "pais": "Nova Caledônia",
       "sigla": "NC"
     },
     {
       "codigo": "64",
-      "pais": "Nova ZelÃ¢ndia",
+      "pais": "Nova Zelândia",
       "sigla": "NZ"
     },
     {
       "codigo": "968",
-      "pais": "OmÃ£",
+      "pais": "Omã",
       "sigla": "OM"
     },
     {
       "codigo": "31",
-      "pais": "PaÃ­ses Baixos",
+      "pais": "Países Baixos",
       "sigla": "NL"
     },
     {
@@ -867,17 +867,17 @@
     },
     {
       "codigo": "507",
-      "pais": "PanamÃ¡",
+      "pais": "Panamá",
       "sigla": "PA"
     },
     {
       "codigo": "675",
-      "pais": "Papua-Nova GuinÃ©",
+      "pais": "Papua-Nova Guiné",
       "sigla": "PG"
     },
     {
       "codigo": "92",
-      "pais": "PaquistÃ£o",
+      "pais": "Paquistão",
       "sigla": "PK"
     },
     {
@@ -897,12 +897,12 @@
     },
     {
       "codigo": "689",
-      "pais": "PolinÃ©sia Francesa",
+      "pais": "Polinésia Francesa",
       "sigla": "PF"
     },
     {
       "codigo": "48",
-      "pais": "PolÃ´nia",
+      "pais": "Polônia",
       "sigla": "PL"
     },
     {
@@ -917,12 +917,12 @@
     },
     {
       "codigo": "254",
-      "pais": "QuÃªnia",
+      "pais": "Quênia",
       "sigla": "KE"
     },
     {
       "codigo": "996",
-      "pais": "QuirguistÃ£o",
+      "pais": "Quirguistão",
       "sigla": "KG"
     },
     {
@@ -937,27 +937,27 @@
     },
     {
       "codigo": "236",
-      "pais": "RepÃºblica Centro-Africana",
+      "pais": "República Centro-Africana",
       "sigla": "CF"
     },
     {
       "codigo": "1809",
-      "pais": "RepÃºblica Dominicana",
+      "pais": "República Dominicana",
       "sigla": "DO"
     },
     {
       "codigo": "420",
-      "pais": "RepÃºblica Tcheca",
+      "pais": "República Tcheca",
       "sigla": "CZ"
     },
     {
       "codigo": "",
-      "pais": "ReuniÃ£o",
+      "pais": "Reunião",
       "sigla": "RE"
     },
     {
       "codigo": "40",
-      "pais": "RomÃªnia",
+      "pais": "Romênia",
       "sigla": "RO"
     },
     {
@@ -967,7 +967,7 @@
     },
     {
       "codigo": "7",
-      "pais": "RÃºssia",
+      "pais": "Rússia",
       "sigla": "RU"
     },
     {
@@ -997,17 +997,17 @@
     },
     {
       "codigo": "1758",
-      "pais": "Santa LÃºcia",
+      "pais": "Santa Lúcia",
       "sigla": "LC"
     },
     {
       "codigo": "239",
-      "pais": "SÃ£o TomÃ© e PrÃ­ncipe",
+      "pais": "São Tomé e Príncipe",
       "sigla": "ST"
     },
     {
       "codigo": "1784",
-      "pais": "SÃ£o Vicente e Granadinas",
+      "pais": "São Vicente e Granadinas",
       "sigla": "VC"
     },
     {
@@ -1027,17 +1027,17 @@
     },
     {
       "codigo": "381",
-      "pais": "SÃ©rvia",
+      "pais": "Sérvia",
       "sigla": "RS"
     },
     {
       "codigo": "963",
-      "pais": "SÃ­ria",
+      "pais": "Síria",
       "sigla": "SY"
     },
     {
       "codigo": "252",
-      "pais": "SomÃ¡lia",
+      "pais": "Somália",
       "sigla": "SO"
     },
     {
@@ -1047,27 +1047,27 @@
     },
     {
       "codigo": "1869",
-      "pais": "St. Kitts e NÃ©vis",
+      "pais": "St. Kitts e Névis",
       "sigla": "KN"
     },
     {
       "codigo": "268",
-      "pais": "SuazilÃ¢ndia",
+      "pais": "Suazilândia",
       "sigla": "SZ"
     },
     {
       "codigo": "249",
-      "pais": "SudÃ£o",
+      "pais": "Sudão",
       "sigla": "SD"
     },
     {
       "codigo": "46",
-      "pais": "SuÃ©cia",
+      "pais": "Suécia",
       "sigla": "SE"
     },
     {
       "codigo": "41",
-      "pais": "SuÃ­Ã§a",
+      "pais": "Suíça",
       "sigla": "CH"
     },
     {
@@ -1082,12 +1082,12 @@
     },
     {
       "codigo": "992",
-      "pais": "TagiquistÃ£o",
+      "pais": "Tagiquistão",
       "sigla": "TJ"
     },
     {
       "codigo": "66",
-      "pais": "TailÃ¢ndia",
+      "pais": "Tailândia",
       "sigla": "TH"
     },
     {
@@ -1097,22 +1097,22 @@
     },
     {
       "codigo": "255",
-      "pais": "TanzÃ¢nia",
+      "pais": "Tanzânia",
       "sigla": "TZ"
     },
     {
       "codigo": "",
-      "pais": "Terras Austrais e AntÃ¡rticas Francesas",
+      "pais": "Terras Austrais e Antárticas Francesas",
       "sigla": "TF"
     },
     {
       "codigo": "",
-      "pais": "TerritÃ³rio BritÃ¢nico do Oceano Ãndico",
+      "pais": "Território Britânico do Oceano Índico",
       "sigla": "IO"
     },
     {
       "codigo": "",
-      "pais": "TerritÃ³rios Insulares dos EUA",
+      "pais": "Territórios Insulares dos EUA",
       "sigla": "UM"
     },
     {
@@ -1142,12 +1142,12 @@
     },
     {
       "codigo": "216",
-      "pais": "TunÃ­sia",
+      "pais": "Tunísia",
       "sigla": "TN"
     },
     {
       "codigo": "993",
-      "pais": "TurcomenistÃ£o",
+      "pais": "Turcomenistão",
       "sigla": "TM"
     },
     {
@@ -1162,7 +1162,7 @@
     },
     {
       "codigo": "380",
-      "pais": "UcrÃ¢nia",
+      "pais": "Ucrânia",
       "sigla": "UA"
     },
     {
@@ -1177,7 +1177,7 @@
     },
     {
       "codigo": "998",
-      "pais": "UzbequistÃ£o",
+      "pais": "Uzbequistão",
       "sigla": "UZ"
     },
     {
@@ -1192,7 +1192,7 @@
     },
     {
       "codigo": "84",
-      "pais": "VietnÃ£",
+      "pais": "Vietnã",
       "sigla": "VN"
     },
     {
@@ -1202,12 +1202,12 @@
     },
     {
       "codigo": "260",
-      "pais": "ZÃ¢mbia",
+      "pais": "Zâmbia",
       "sigla": "ZM"
     },
     {
       "codigo": "263",
-      "pais": "ZimbÃ¡bue",
+      "pais": "Zimbábue",
       "sigla": "ZW"
     }
   ]
