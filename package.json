@@ -21,7 +21,9 @@
   },
   "scripts": {
     "cleanup": "rm -Rf ./dist",
-    "build": "npm run cleanup && webpack --mode production"
+    "build": "npm run cleanup && webpack --mode production",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -36,6 +38,8 @@
   "homepage": "https://github.com/wgenial/cidadesestadosjs#readme",
   "dependencies": {
     "@babel/runtime": "^7.2.0",
-    "npm": "^6.6.0"
-  }
+    "npm": "^6.6.0",
+    "snyk": "^1.230.5"
+  },
+  "snyk": true
 }
