@@ -46,3 +46,22 @@ patch:
         patched: '2019-10-04T00:49:57.579Z'
     - npm > libnpm > libnpmsearch > npm-registry-fetch > make-fetch-happen > https-proxy-agent:
         patched: '2019-10-04T00:49:57.579Z'
+  SNYK-JS-LODASH-450202:
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-11-03T22:27:18.400Z'
