@@ -38,7 +38,7 @@
   "homepage": "https://github.com/wgenial/cidadesestadosjs#readme",
   "dependencies": {
     "@babel/runtime": "^7.2.0",
-    "npm": "^6.6.0",
+    "npm": "^6.13.4",
     "snyk": "^1.241.0"
   },
   "snyk": true
